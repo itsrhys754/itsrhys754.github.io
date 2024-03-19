@@ -1,5 +1,5 @@
 // Sample movie data
-import { movies } from 'data.js';
+import { movies } from './data.js';
 
 // const movies = [
 //     {
