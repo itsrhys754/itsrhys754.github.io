@@ -1,5 +1,5 @@
 // Get the movieId from the URL query string
-import { movies } from 'data.js';
+import { movies } from './data.js';
 
 
 // Get the movieId and movies from the URL query string
